@@ -76,3 +76,10 @@ For Game Ended:
 
 For All Events Called:
 - No extra variables
+
+## Special Thanks
+
+This repo is based on the great work by zunderscore, check out his huge list of plugins for Firebot in Github!
+
+[zunderscore's Repos](https://github.com/zunderscore?tab=repositories)
+
